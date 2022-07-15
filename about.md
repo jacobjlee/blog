@@ -4,6 +4,7 @@ title: "About Me"
 date: 2021-05-01T00:00:00+09:00
 permalink: "/about/"
 description: "긍정적인 태도로 꾸준히 성장하는 개발자"
+image: "https://source.unsplash.com/oMneOBYhJxY/1600x900"
 ---
 
 ## 👋 Introduction
