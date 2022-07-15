@@ -1,7 +1,8 @@
 ---
+layout: post
 title: "부트캠프 출신에서 이제는 개발자로"
 date: 2021-05-01T00:00:00+09:00
-layout: post
+authors: ["Jacob"]
 categories: ["Career"]
 thumbnail: "https://source.unsplash.com/wawEfYdpkag/640x360"
 image: "https://source.unsplash.com/wawEfYdpkag/1600x900"
