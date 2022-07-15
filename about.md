@@ -14,8 +14,8 @@ image: "https://source.unsplash.com/oMneOBYhJxY/1600x900"
 - 개발자로서 역량을 키우기 위해 **어떻게 하면 더 성장할 수 있을지 끊임없이 고민합니다**.
 - 글을 써서 **생각을 나누고, 배운 것을 공유**하는 것을 좋아합니다. 블로그 운영을 위해 노력합니다.
 
+---
 # 🧑🏻‍💻 Experience
-
 ## 딜라이트룸
 **Backend Engineer** *(Aug 2022- Present)*
 
@@ -38,6 +38,7 @@ image: "https://source.unsplash.com/oMneOBYhJxY/1600x900"
 - 디버깅 및 데이터 복구를 위한 DB 레벨의 로깅 및 soft-deletion 패턴 구현
 - NextRise Global Startup Fair 회사 대표로 참여
 
+---
 # 🛠 Tech Stack
 ### Back-end
 
