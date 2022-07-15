@@ -16,10 +16,10 @@ image: "https://source.unsplash.com/oMneOBYhJxY/1600x900"
 
 ---
 # 🧑🏻‍💻 Experience
-## 딜라이트룸
+## Delight Room (딜라이트룸)
 **Backend Engineer** *(Aug 2022- Present)*
 
-## 인덴트 코퍼레이션
+## Indent Corp. (인덴트코퍼레이션)
 **Software Engineer** *(Aug 2021- Aug 2022)*
 
 - DRF 기반의 동영상 리뷰 플랫폼 서비스 API 구현
@@ -29,7 +29,7 @@ image: "https://source.unsplash.com/oMneOBYhJxY/1600x900"
 - GitHub Actions로 Jira Release 자동화 구현
 - 구독 플랜 기능 구현 및 결제 자동화
 
-## 피큐레잇
+## Pikurate (피큐레잇)
 **Back-end Developer** *(Feb 2021- Aug 2021)*
 
 - DRF 기반의 지식 큐레이션 서비스 API 구현
